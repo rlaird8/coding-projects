@@ -1,0 +1,7 @@
+F2022 CSIS 3701 Advanced Object Oriented Programming 32 4
+F2022 CSCI 3710 Introduction to Discrete Structures 32 3
+F2022 CSCI 4850 Advanced Database Design and Administration 2 3
+F2022 CSCI 5801 Software Engineering 2 3
+F2022 CSIS 2610 Programming and Problem Solving 32 3
+F2022 CSCI 4852 Deep Learning 32 3
+F2022 CSCI 4862 Server-Side Web Development and Programming 32 3
